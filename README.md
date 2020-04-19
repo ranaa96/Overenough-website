@@ -8,7 +8,7 @@ Overenough is an online marketplace where people or orgnization can donate their
 <br>
 orgnizations also can book for an event to provide volunteers and food for it .
 <br>
-in overenough you can participate as a volunteer beside being donator.
+In overenough you can participate as a volunteer beside being donator.
 
 
 ## Technologies used
