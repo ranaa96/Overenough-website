@@ -5,9 +5,8 @@ Is to ensure edible food is kept out of the landfill and instead is redirected i
 
 ## Description
 Overenough is an online marketplace where people or orgnization can donate their food waste for needy people and collecting points , it can be exchanged for gifts from sponsored restaurants .
- .
 <br>
-orgnizations also can book for an event to provide volunteers and food for it .
+Organizations also can book for an event to provide volunteers and food for it .
 <br>
 In overenough people can participate as a volunteer beside being donator.
 
