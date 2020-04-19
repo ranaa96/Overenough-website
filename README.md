@@ -13,8 +13,8 @@ in overenough you can participate as a volunteer beside being donator.
 
 ## Technoligied used
 Html5,Css3,Bootstrap4,Javascript,Jquery <br>
-Sql , PHP 
-Facebook API
+Sql , PHP  <br>
+Facebook API <br>
 Photoshop
 
 ## Preview
