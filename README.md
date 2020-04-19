@@ -11,7 +11,7 @@ orgnizations also can book for an event to provide volunteers and food for it .
 in overenough you can participate as a volunteer beside being donator.
 
 
-## Technoligied used
+## Technologies used
 Html5,Css3,Bootstrap4,Javascript,Jquery <br>
 Sql , PHP  <br>
 Facebook API <br>
