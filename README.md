@@ -1,7 +1,7 @@
 # Rescuing-leftover
 
 ## Goal
-Is to ensure edible food is kept out of the landfill and instead >is redirected into the hands of those who need it most.
+Is to ensure edible food is kept out of the landfill and instead is redirected into the hands of those who need it most.
 
 ## Description
 Overenough is an online marketplace where people or orgnization can donate their food waste for needy people .
